@@ -1,0 +1,13 @@
+.navbar {
+    background-color: #fff;
+}
+.gb_xc {
+    width:124px;
+    height:40px;
+}
+#time_date {
+    font-size: 17px;
+    font-weight: 800;
+    text-decoration: none;
+    color: #000;
+}

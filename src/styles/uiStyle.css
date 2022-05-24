@@ -1,0 +1,25 @@
+.gb_3d {
+    display: inline-block;
+    font-family: "Product Sans", Arial, sans-serif;
+    font-size: 22px;
+    line-height: 24px;
+    padding-left: 8px;
+    position: relative;
+    top: -1.5px;
+    vertical-align: middle;
+
+}
+
+.gb_1c .gb_3d {
+    padding-left: 4px;
+}
+
+.C9bDzc {
+    align-items: center;
+    display: -webkit-inline-box;
+    display: inline-flex;
+    flex-direction: column;
+    flex-basis: 45%;
+    overflow: hidden;
+    padding: 1em 3em;
+}

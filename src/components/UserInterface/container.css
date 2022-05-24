@@ -1,0 +1,43 @@
+.col-lg-6 {
+    padding-left: 30px; 
+    padding-top: 30px;
+}
+/* h1 {
+    font-weight: bolder;
+    line-height: 50px; 
+    font-family: 'Google Sans Display',Roboto,Arial,sans-serif;
+} */
+p {
+    font-size: 18px;
+    padding-top: 20px;
+    font-weight: 700;
+    font-family: 'Google Sans',Roboto,Arial,sans-serif;
+    color: #5f6368;
+}
+.input-group {
+    display: flex; 
+    padding-top: 50px;
+}
+.btn {
+    background-color: #1a73e8; 
+    color: #fff; 
+    height: 50px; 
+    font-size: 16px;
+    font-weight: 800;
+    width: 30%;
+}
+.btn:hover {
+    color : #fff;
+    background-color: #08630f;
+}
+.form-control {
+    margin-left: 15px;
+    height: 50px; 
+    width: 50%;
+    font-weight: 700;
+    font-size: 16px;
+}
+a:hover {
+    text-decoration: none;
+    color : #08630f;
+}
